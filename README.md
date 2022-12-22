@@ -1,4 +1,4 @@
-### Olá 👋 Seja bem vindo ao meu GitHub!
+### Olá 👋 Seja bem vindo(a) ao meu GitHub!
 > Me chamo Paula Belmiro e estou em transição de carreira para a área da tecnologia, como desenvolvedora java. Atualmente estou cursando Tecnólogo em Desenvolvimento Mobile na Faculdade Anhanguera.
 
 <div>
