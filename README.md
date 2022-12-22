@@ -23,8 +23,8 @@ Me chamo Paula Belmiro e estou em transição de carreira para a área da tecnol
 
 <div>
 <a href="https://github.com/paulabelmiro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabelmiro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulabelmiro&show_icons=true&theme=dracula&hide=contribs,prs&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabelmiro&layout=compact&langs_count=7&theme=transparent&hide_border=true&locale=pt-br&title_color=9932CD&text_color=#42426F"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulabelmiro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&icon_color=FF00FF&title_color=9932CD&text_color=#42426F"/>
 
-
+  </div>
 
