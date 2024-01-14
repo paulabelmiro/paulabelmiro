@@ -1,5 +1,5 @@
 ### Olá 👋 Seja bem vindo(a) ao meu GitHub!
-> Me chamo Paula Belmiro e estou em transição de carreira para a área da tecnologia, como desenvolvedora java. Atualmente estou cursando Tecnólogo em Desenvolvimento Mobile na Faculdade Anhanguera.
+> Me chamo Paula Belmiro, atuo desenvolvedora Fullstack utilizando as linguagens C# e Typescript e estou buscando me desenvolver no frontend. Atualmente estou cursando Tecnólogo em Desenvolvimento Mobile na Faculdade Anhanguera.
 
 <div>
 <h3>Ferramentas e tecnologias:</h3>
