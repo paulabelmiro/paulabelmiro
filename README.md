@@ -1,5 +1,5 @@
 ### Olá 👋 Seja bem vindo(a) ao meu GitHub!
-> Me chamo Paula Belmiro, atuo como desenvolvedora Fullstack utilizando as linguagens C# e Typescript e estou buscando me desenvolver no frontend. Atualmente estou cursando Tecnólogo em Desenvolvimento Mobile na Faculdade Anhanguera.
+> Me chamo Paula Belmiro, atuo como desenvolvedora Fullstack utilizando as linguagens C# e Typescript e estou buscando me desenvolver em React e React Native através da RocketSeat. Atualmente estou cursando Tecnólogo em Desenvolvimento Mobile na Uninter.
 
 <div>
 <h3>Ferramentas e tecnologias:</h3>
